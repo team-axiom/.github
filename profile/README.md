@@ -8,9 +8,9 @@
 > Wait till i update the sources.
 
 ## Using local manifest 
-Google made repo, an utility to manage huge repos that use nesting. 
-Repo uses xml-like manifest file to specify clone path and git repository, 
-remove (if included in other manifest file) and add repos.
+Google made repo, a utility to manage huge repos that nest. 
+Repo uses xml-like manifest file to specify clone path, git repository, 
+remote name/url and remove path (if included in other manifest file) and add repos.
 In order to build android for a device, you must first clone a few things:
 
 - Device tree
