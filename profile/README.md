@@ -3,10 +3,6 @@
 > [!IMPORTANT]
 > Currently development is paused.
 
-> [!WARNING]
-> Using lineageos-22.1-obsolete branch is not supported.
-> Wait till i update the sources.
-
 ## Using local manifest 
 Google made repo, a utility to manage huge repos that nest. 
 Repo uses xml-like manifest file to specify clone path, git repository, 
